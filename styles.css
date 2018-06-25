@@ -1,9 +1,26 @@
 body {
     text-align: center;
+    font-family: 'Spirax';
+    font-size: 22px;
+    background-color: lightblue;
+}
+
+mark.red {
+    color: red;
+    background: none;
+}
+
+mark.white {
+    color: white;
+    background: none;
+}
+
+mark.green {
+    color: green;
+    background: none;
 }
 
 h1 {
-    font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
 }
