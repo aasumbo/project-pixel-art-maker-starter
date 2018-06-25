@@ -7,6 +7,10 @@
 - [Instructions](#instructions)
 - [Contributing](#contributing)
 
+## Project Link
+
+Github pages link [7 Days of Code Challenge Project](https://danielotieno.github.io/project-pixel-art-maker-starter/ "7 Days of Code Challenge")
+
 ## Instructions
 
 To get started, open `designs.js` and start building out the app's functionality.
