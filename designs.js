@@ -30,3 +30,10 @@ function makeGrid() {
     table.appendChild(tbody);
 
 }
+
+$('body').on('click', 'td', function() {
+
+    let color = document.getElementById('colorPicker').value;
+
+    $(this).css('background-color', color);
+});
