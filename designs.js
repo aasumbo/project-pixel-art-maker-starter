@@ -5,6 +5,8 @@
 
 function makeGrid() {
 
-// Your code goes here!
+    let height = document.getElementById('inputHeight').value;
+    let width = document.getElementById('inputWeight').value;
+    let table = document.getElementById('pixelCanvas')
 
 }
