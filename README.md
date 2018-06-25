@@ -1,9 +1,11 @@
 # Pixel Art Maker Project
 
+![Image](se.png)
+
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+- [Instructions](#instructions)
+- [Contributing](#contributing)
 
 ## Instructions
 
