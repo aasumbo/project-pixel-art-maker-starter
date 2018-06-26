@@ -35,5 +35,11 @@ $('body').on('click', 'td', function() {
 
     let color = document.getElementById('colorPicker').value;
 
-    $(this).css('background-color', color);
+    if ($(this).attr('style')) {
+
+        $(this).removeAttr('style');
+    } else {
+
+        $(this).css('background-color', color);
+    }
 });
